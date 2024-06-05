@@ -59,7 +59,15 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 * Gender disparities exist in U.S. citizen emigration patterns, with variations in destination preferences and socio-economic outcomes.
 * Migrant children accompany a significant portion of U.S. citizen emigrants, highlighting the importance of family considerations in migration decisions.
 
+### Dashboard
 ![image](https://github.com/acsoteldo/Emigration-Patterns-of-U.S.-Citizens/assets/76544489/53c8b1b9-5cf3-4c45-9a12-f5b84364bcd3)
+
+## Next Steps
+* Address the specific needs of U.S. citizen emigrants by considering factors such as education, income, and destination preferences. Use data-driven insights to tailor policies effectively.
+* Use research data to identify trends in employee mobility and provide opportunities that align with these patterns, accommodating employees' aspirations for international experiences.
+* Conduct further research on migration patterns and trends among U.S. citizens, with a focus on understanding the underlying drivers and socio-economic implications.
+* Raise awareness about the contributions of migrants to society and challenge stereotypes and misconceptions about migration with evidence-based narratives.
+* Foster international cooperation and dialogue on migration governance, recognizing the interconnectedness of migration issues and the need for collaborative solutions.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
