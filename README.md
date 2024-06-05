@@ -31,7 +31,7 @@ The analysis will be based on the provided dataset, which includes the following
 * Numerical_Country_of_Destination_Income: Income level of the destination country in range.
 
 
-## Introduction
+## Problem Definition
 In recent years, there has been a noticeable trend of U.S. citizens relocating to other countries, a phenomenon often referred to as “brain drain” when highly skilled individuals emigrate. Understanding the factors and patterns driving this migration is crucial for policymakers, businesses, and researchers. This report aims to explore the demographic, economic, and social drivers that influence U.S. citizens to move abroad, identify the most common destinations, and examine the impact of these movements on both the United States and the destination countries.
 
 ### Relevance:
