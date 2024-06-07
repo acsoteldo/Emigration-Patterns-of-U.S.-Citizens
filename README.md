@@ -45,10 +45,10 @@ Understanding the migration patterns of U.S. citizens is essential for several r
 Brain drain has both positive and negative implications for both the United States and the destination countries, affecting economic growth, innovation, and cultural exchange.
 
 ## Vision
-To provide actionable insights into the migration patterns of U.S. citizens, enabling policymakers, businesses, and stakeholders to make informed decisions that address the challenges and opportunities associated with international migration. By understanding the dynamics of U.S. citizen emigration, we aim to foster dialogue and collaboration among nations to promote sustainable development, economic growth, and social integration.
+To provide actionable insights into the migration patterns of U.S. citizens, enabling policymakers, businesses, and stakeholders to make informed decisions that address the challenges and opportunities associated with international migration. By understanding the dynamics of U.S. citizen emigration, this report aims to foster dialogue and collaboration among nations to promote sustainable development, economic growth, and social integration.
 
 ## Objective
-The primary objective of this analysis is to gain a comprehensive understanding of the migration patterns of U.S. citizens and their implications for both the United States and the destination countries. By analyzing the available dataset and exploring the drivers and trends of U.S. citizen emigration, we aim to address the following objectives:
+The primary objective of this analysis is to gain a comprehensive understanding of the migration patterns of U.S. citizens and their implications for both the United States and the destination countries. By analyzing the available dataset and exploring the drivers and trends of U.S. citizen emigration, this report aims to address the following objectives:
 * Identify the most common destinations for U.S. citizen emigrants and analyze the trends over time.
 * Explore the demographic characteristics of U.S. citizen migrants, including gender distribution, educational attainment, and income levels.
 * Examine the relationship between the income levels of the country of origin and destination and its impact on migration flows.
