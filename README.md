@@ -14,7 +14,7 @@ Excel, Jupyter, Python, SQL, Tableau
 ### Data Sources:
 United Nations
 
-The analysis will be based on the provided dataset, which includes the following fields:
+The analysis will be based on the cleaned dataset, which includes the following fields:
 * Country_of_Origin: The country of origin of the migrant (U.S. citizen).
 * Country_of_Destination: The destination country where the migrant relocates.
 * Country_of_Origin_ID: Unique identifier for the country of origin.
