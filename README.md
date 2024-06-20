@@ -56,11 +56,11 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 * Assess the presence of migrant children among U.S. citizen emigrants and understand its implications for migration policies and social integration efforts.
 
 ## Key Insights
-* U.S. citizen emigration is driven primarily by economic factors such as job opportunities and income disparities between the country of origin and destination.
-* Destination countries with higher income levels and better quality of life attract a larger number of U.S. citizen emigrants.
-* Skilled migration among U.S. citizens, particularly those with formal education, contributes to brain drain and impacts innovation and economic competitiveness.
-* Gender disparities exist in U.S. citizen emigration patterns, with variations in destination preferences and socio-economic outcomes.
+* Mexico saw the largest increase in U.S. citizen emigrants from 2000 to 2020.
+* Most U.S. citizens migrate to high-income (UK, Japan, Italy, Israel) and upper-middle-income (Mexico) countries, with increasing trends over decades.
+* Many U.S. citizens moving to Mexico lack formal education, and a significant number travel with children.
 * Migrant children accompany a significant portion of U.S. citizen emigrants, highlighting the importance of family considerations in migration decisions.
+* Skilled migration, particularly of formally educated U.S. citizens, contributes to brain drain, impacting innovation and economic competitiveness.
 
 ### Dashboard
 ![image](https://github.com/acsoteldo/Emigration-Patterns-of-U.S.-Citizens/assets/76544489/53c8b1b9-5cf3-4c45-9a12-f5b84364bcd3)
