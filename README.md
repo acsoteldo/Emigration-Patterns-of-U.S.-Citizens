@@ -66,11 +66,11 @@ The primary objective of this analysis is to gain a comprehensive understanding 
 ![image](https://github.com/acsoteldo/Emigration-Patterns-of-U.S.-Citizens/assets/76544489/53c8b1b9-5cf3-4c45-9a12-f5b84364bcd3)
 
 ## Next Steps
-* Address the specific needs of U.S. citizen emigrants by considering factors such as education, income, and destination preferences. Use data-driven insights to tailor policies effectively.
-* Use research data to identify trends in employee mobility and provide opportunities that align with these patterns, accommodating employees' aspirations for international experiences.
-* Conduct further research on migration patterns and trends among U.S. citizens, with a focus on understanding the underlying drivers and socio-economic implications.
-* Raise awareness about the contributions of migrants to society and challenge stereotypes and misconceptions about migration with evidence-based narratives.
-* Foster international cooperation and dialogue on migration governance, recognizing the interconnectedness of migration issues and the need for collaborative solutions.
+* Address the specific needs of U.S. citizen emigrants using data-driven insights on education, income, and destination preferences.
+* Identify trends in employee mobility to provide opportunities aligned with international experience aspirations.
+* Conduct further research to understand the underlying drivers and socio-economic implications of U.S. citizen migration patterns.
+* Raise awareness about migrants' contributions and challenge stereotypes with evidence-based narratives.
+* Foster international cooperation and dialogue on migration governance for collaborative solutions.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
