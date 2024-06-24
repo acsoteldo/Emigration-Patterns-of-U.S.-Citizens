@@ -3,7 +3,7 @@ SELECT
     Decade, 
     AVG(Total_Migrants) AS Average_Total_Migrants
 FROM 
-    migration_data
+    Migrants_EducationLevel CLEANED
 GROUP BY 
     Decade
 ORDER BY 
@@ -15,7 +15,7 @@ SELECT
     SUM(Formal_Education_Migrants) AS Total_Formal_Education_Migrants,
     SUM(No_Formal_Education_Migrants) AS Total_No_Formal_Education_Migrants
 FROM 
-    migration_data
+    Migrants_EducationLevel CLEANED
 GROUP BY 
     Gender
 ORDER BY 
@@ -26,7 +26,7 @@ SELECT
     Country_of_Destination, 
     SUM(Total_Migrants) AS Total_Migrants
 FROM 
-    migration_data
+    Migrants_EducationLevel CLEANED
 GROUP BY 
     Country_of_Destination
 ORDER BY 
@@ -38,7 +38,7 @@ SELECT
     CORR(Numerical_Country_of_Origin_Income, Total_Migrants) AS Correlation_Origin_Income_Total_Migrants,
     CORR(Numerical_Country_of_Destination_Income, Total_Migrants) AS Correlation_Destination_Income_Total_Migrants
 FROM 
-    migration_data;
+    Migrants_EducationLevel CLEANED;
 
 -- Feature Importance Analysis: Determine the importance of different features in predicting the total number of migrants.
 SELECT 
@@ -48,7 +48,7 @@ SELECT
     Decade, 
     SUM(Total_Migrants) AS Total_Migrants
 FROM 
-    migration_data
+    Migrants_EducationLevel CLEANED
 GROUP BY 
     Country_of_Origin, 
     Country_of_Destination, 
@@ -62,7 +62,7 @@ SELECT
     Country_of_Destination, 
     SUM(Migrant_Children) AS Total_Migrant_Children
 FROM 
-    migration_data
+    Migrants_EducationLevel CLEANED
 GROUP BY 
     Country_of_Destination
 ORDER BY 
